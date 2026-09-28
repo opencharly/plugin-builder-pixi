@@ -1,5 +1,7 @@
+version: 2026.232.0520
 plugin-builder-pixi:
     candy:
+        version: 2026.182.0100
         description: |-
             OUT-OF-TREE charly plugin serving the `pixi` builder's BUILD-TIME multi-stage (OpResolve)
             + its DEPLOY-TIME IR shim. A standalone Go module (go.mod + main.go) that dispatches to the
