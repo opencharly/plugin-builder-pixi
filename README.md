@@ -39,9 +39,7 @@ Then a candy with a `pixi.toml` is built through this builder.
 ## Related
 
 - Owning skill: `/charly-image:image` — box/builder configuration and the box
-  dependency graph. This candy carries no `skill:` entity of its own; the gap is
-  tracked in
-  [opencharly/opencharly#291](https://github.com/opencharly/opencharly/issues/291).
+  dependency graph.
 - `/charly-internals:plugin` — the plugin/provider model, including the
   `builder` provider class.
 - [`opencharly/charly`](https://github.com/opencharly/charly) — the charly CLI.
