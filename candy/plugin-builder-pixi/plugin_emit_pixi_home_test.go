@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/opencharly/sdk/proto/pb"
+	pb "github.com/opencharly/spec/proto"
 	"github.com/opencharly/spec/spec"
 )
 
